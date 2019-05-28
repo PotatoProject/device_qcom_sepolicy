@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3890367a_c1796426",
+        "filename": "vendor/common/property_contexts",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000019
+      },
+      "writtenOn": "2019-05-28T15:26:30Z",
+      "side": 1,
+      "message": "this disappeared in an upstream CAF commit, this shouldn\u0027t be here:\n\nhttps://github.com/StatiXOS/android_device_qcom_sepolicy/commit/1aa7a76bf0ce05f1742f5c06f40b00cf5d973a26",
+      "revId": "bc0fe302bdbdfe2c04522d0d51136868a7098f13",
+      "serverId": "8720d348-3d66-43e6-b480-1d69039ac554",
+      "unresolved": true
+    }
+  ]
+}
